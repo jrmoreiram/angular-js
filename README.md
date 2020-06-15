@@ -1,4 +1,4 @@
 # angular-js
-Repositório destinado a projetos angularjs.
+Repositório destinado ao projeto lista telefônica utilizando angular.js.
 
 ![](images/angularjs.png?raw=true)
